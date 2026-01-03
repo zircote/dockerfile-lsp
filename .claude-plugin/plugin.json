@@ -1,6 +1,6 @@
 {
   "name": "dockerfile-lsp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Dockerfile language server plugin for Claude Code with docker-langserver integration and automated hooks for linting and best practices",
   "author": {
     "name": "zircote",
